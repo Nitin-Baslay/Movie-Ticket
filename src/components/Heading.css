@@ -1,0 +1,7 @@
+.masterhead{
+    display: flex;
+    justify-content: center;
+}
+.head{
+    font-size: 50px;
+}

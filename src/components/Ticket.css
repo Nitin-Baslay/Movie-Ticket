@@ -1,0 +1,32 @@
+.masterTicket {
+  display: flex;
+  justify-content: center;
+}
+.mainSection {
+  width: 50%;
+  margin: auto;
+  background-color: lightskyblue;
+  border-radius: 10px;
+ 
+}
+.amount {
+  background-color: black;
+  color: white;
+}
+.backbtn {
+  display: flex;
+  justify-content: center;
+}
+.btn{
+background-color: blue;
+color: white;
+border: none;
+padding: 10px 30px;
+font-size: 20px;
+border-radius: 10px;
+margin-bottom: 25px;
+cursor: pointer;
+}
+.btn:active{
+    background-color: green;
+}

@@ -1,0 +1,19 @@
+.next {
+  background-color: blue;
+  padding: 10px 40px;
+  border-radius: 10px;
+  border: none;
+  margin-bottom: 30px;
+  font-size: 30px;
+  color: white;
+  cursor: pointer;
+}
+.masterbttn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px; 
+}
+.next:active{
+    background-color: green;
+}

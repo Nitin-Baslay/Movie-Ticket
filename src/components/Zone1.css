@@ -1,0 +1,17 @@
+.seat {
+  width: 2rem;
+  height: 2rem;
+  margin-left: 45px;
+  margin-top: 5px;
+  border-radius: 5px;
+  background-color: lavenderblush;
+}
+.heading {
+  text-align: center;
+}
+.seat:active {
+  background-color: aqua;
+}
+.disabled {
+  background-color: rgb(218, 117, 188);
+}
